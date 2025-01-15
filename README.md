@@ -1,9 +1,12 @@
 # Decision-Maker
 
-Susan is trying to make purchases for the new school year but does not know which store to make her purchases due to price differences.
+Suzan is trying to make purchases for the new school year but does not know which store to make her purchases due to price differences.
 The decision maker was designed to help Susan find a store that is cost effective.
 
 Excel was used for the analysis and visualization.
+
+From the analysis, the best decision for Suzan will be to buy from Walmart because it'll cost her less to get all her items when compared to other stores.
+Pictures below!
 
 
 ![Screenshot 2025-01-15 004856](https://github.com/user-attachments/assets/ca8970ae-613e-4a5f-a5c1-58dd3e55a417)
