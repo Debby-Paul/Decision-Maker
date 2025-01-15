@@ -7,3 +7,6 @@ Excel was used for the analysis and visualization.
 
 
 ![Screenshot 2025-01-15 004856](https://github.com/user-attachments/assets/ca8970ae-613e-4a5f-a5c1-58dd3e55a417)
+
+
+![Screenshot 2025-01-15 003726](https://github.com/user-attachments/assets/b41d1514-b40f-4f59-bd5c-9770d2edf06e)
